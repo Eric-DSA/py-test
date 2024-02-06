@@ -1,9 +1,3 @@
-### PY Test
-
-# For any question of this document, we aren't waiting for a number or answer, but we are waiting for python functions.
-
-# Make a git public repo or add Eric-DSA to your private repos.
-
 from dataclasses import dataclass
 
 from aggregate_utility import odd_or_even, select, LessThan, ValueAccess, MostPopularValue
