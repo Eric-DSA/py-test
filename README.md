@@ -19,4 +19,4 @@ pip install -r requirements.txt
 
 ##  submit your answer
 
-Make a git public repo or add Eric-DSA to your private repos.
+Make a git repo to add `timtan`, `Xiao75896453`, `BillyPJChen` to your private repo.
